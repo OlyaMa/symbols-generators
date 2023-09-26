@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/ihf04wrcrwopdvwe?svg=true)](https://ci.appveyor.com/project/OlyaMa/symbols-generators)
